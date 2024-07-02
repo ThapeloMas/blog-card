@@ -1,0 +1,57 @@
+body{
+  
+
+}
+
+
+
+.btn{
+  
+
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 29px;
+  margin-top: 30px;
+  
+  
+ 
+
+  
+
+
+    
+}
+.parts{
+  margin-left: 29px;
+}
+
+.forms{
+  border: 2px solid black;
+  width: 400px;
+  height: 700px;
+  border-radius: 5%;
+  margin-left: 800px;
+  margin-top: 110px;
+  background-color: yellow;
+  
+
+
+}
+div img{
+  margin-top: 35px;
+  margin-left: 39px;
+  border-radius: 5%;
+  
+  
+}
+.dates{
+  margin-left: 29px;
+}
+.para{
+  margin-left: 29px;
+}
+.ava{
+  margin-left: 29px;
+  margin-top: 30px;
+}
