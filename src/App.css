@@ -1,5 +1,6 @@
 body{
-  
+  background-color: hsl(47, 88%, 63%);
+  font-size: 16px;
 
 }
 
@@ -13,8 +14,8 @@ body{
   border-radius: 5px;
   margin-left: 29px;
   margin-top: 30px;
-  
-  
+  background-color: hsl(47, 88%, 63%);
+  font-weight: bolder;
  
 
   
@@ -29,18 +30,18 @@ body{
 .forms{
   border: 2px solid black;
   width: 400px;
-  height: 700px;
+  height: 550px;
   border-radius: 5%;
   margin-left: 800px;
   margin-top: 110px;
-  background-color: yellow;
-  
+  background-color: white;
+  box-shadow: 10px 10px 2px #000;
 
 
 }
 div img{
   margin-top: 35px;
-  margin-left: 39px;
+  margin-left: 29px;
   border-radius: 5%;
   
   
@@ -50,8 +51,22 @@ div img{
 }
 .para{
   margin-left: 29px;
+  
 }
 .ava{
   margin-left: 29px;
   margin-top: 30px;
+  margin-top: 20px;
+}
+.parts{
+  color:hsl(47, 88%, 63%) ;
+}
+.name{
+  display: flex;
+  
+}
+.name p{
+  margin-left: 30px;
+  margin-top: 40px;
+  font-weight: bolder;
 }

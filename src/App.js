@@ -14,7 +14,7 @@ function App() {
           </div>
           <div>
             <button className='btn'>
-              learning
+              Learning
             </button>
           </div>
           <div>
@@ -30,12 +30,12 @@ function App() {
           <div className='para'>
             These language are the backbone of every website, defining structure, content and presentation
           </div>
-          <div>
+          <div className='name'>
             <img src={avatar} className="ava"  />
-            <div>
-              
-            </div>
-
+            <p >
+              Greg Hooper
+            </p>
+            
 
           </div>
       </form>
